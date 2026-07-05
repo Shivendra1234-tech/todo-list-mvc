@@ -1,13 +1,20 @@
 {
   "name": "todo-list",
   "version": "1.0.0",
-  "description": "",
+  "description": "Task Management Web Application built using Node.js, Express.js, MongoDB and EJS.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start" : "node app.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "mongoose",
+    "mvc",
+    "todo"
+  ],
+  "author": "Shivendra",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
