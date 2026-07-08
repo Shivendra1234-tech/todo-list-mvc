@@ -80,11 +80,11 @@ todo-list-mvc/
 
 ## Future Improvements
 
- Add task categories (Work, Personal, Study)
- Add task due dates and reminders
- Add task priority (High, Medium, Low)
- Add search and filtering
- Improve the UI with responsive design
+- Add task categories (Work, Personal, Study)
+- Add task due dates and reminders
+- Add task priority (High, Medium, Low)
+- Add search and filtering
+- Improve the UI with responsive design
 
 ## Screenshots
 
