@@ -80,12 +80,11 @@ todo-list-mvc/
 
 ## Future Improvements
 
-- User Authentication (Login & Signup)
-- Task Categories
-- Task Due Dates
-- Task Search
-- Responsive UI
-- REST API Integration
+ Add task categories (Work, Personal, Study)
+ Add task due dates and reminders
+ Add task priority (High, Medium, Low)
+ Add search and filtering
+ Improve the UI with responsive design
 
 ## Screenshots
 
